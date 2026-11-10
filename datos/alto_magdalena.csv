@@ -1,0 +1,11 @@
+origen_id,origen_nombre,origen_ubicacion,destino_id,destino_nombre,destino_ubicacion,tiempo_min
+0,Parque de Bolívar,Centro de Girardot,1,Sede Unipiloto SAM,Barrio La Estación Girardot,3
+0,Parque de Bolívar,Centro de Girardot,3,Puente Ospina Pérez,Paso Girardot a Flandes,4
+1,Sede Unipiloto SAM,Barrio La Estación Girardot,2,Glorieta Algarrobo,Salida Girardot a Ricaurte,5
+1,Sede Unipiloto SAM,Barrio La Estación Girardot,8,Terminal de Transportes,Girardot Norte,6
+2,Glorieta Algarrobo,Salida Girardot a Ricaurte,5,Zona Hotelera Ricaurte,Vía Panamericana Ricaurte,7
+3,Puente Ospina Pérez,Paso Girardot a Flandes,4,Centro de Flandes,Parque Principal Flandes,3
+4,Centro de Flandes,Parque Principal Flandes,9,Puente Bernardo Arango,Paso peatonal mixto Flandes,4
+5,Zona Hotelera Ricaurte,Vía Panamericana Ricaurte,6,Cruce Agua de Dios,Intersección Vía Nariño Agua de Dios,12
+6,Cruce Agua de Dios,Intersección Vía Nariño Agua de Dios,7,Centro de Agua de Dios,Casco urbano Agua de Dios,8
+8,Terminal de Transportes,Girardot Norte,6,Cruce Agua de Dios,Intersección Vía Nariño Agua de Dios,4
